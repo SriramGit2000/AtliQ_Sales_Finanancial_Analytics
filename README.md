@@ -67,6 +67,7 @@ To empower AtliQ’s leadership and sales teams with data-backed insights for be
 - India and USA are lagging behind in terms of Net sales vs target although they made highest sales among all the customers. In terms of 2021-Target % , it is Poland which lags behind.
 - Top 10 Products based on their net sales
 <img width="950" height="691" alt="image" src="https://github.com/user-attachments/assets/2f9c1348-0023-4dbf-8e60-aa683bd90115" />
+
 ---
 
 - Divisional level Report
@@ -102,14 +103,10 @@ To empower AtliQ’s leadership and sales teams with data-backed insights for be
 This means:
 Costs (COGS) are rising faster than sales.
 The business is selling much more, but keeping a smaller share of profit per dollar of sales.
-- <img width="1042" height="418" alt="image" src="https://github.com/user-attachments/assets/dd7a64a5-98fd-4199-b550-e783242402cd" />
+  <img width="1042" height="418" alt="image" src="https://github.com/user-attachments/assets/dd7a64a5-98fd-4199-b550-e783242402cd" />
 
 
 
-
-
-
--  
 ## 📬 Contact
 
 Feel free to connect or reach out if you'd like to collaborate or ask questions!
