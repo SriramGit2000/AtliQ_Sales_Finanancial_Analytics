@@ -67,8 +67,11 @@ To empower AtliQ’s leadership and sales teams with data-backed insights for be
 - India and USA are lagging behind in terms of Net sales vs target although they made highest sales among all the customers. In terms of 2021-Target % , it is Poland which lags behind.
 - Top 10 Products based on their net sales
 <img width="950" height="691" alt="image" src="https://github.com/user-attachments/assets/2f9c1348-0023-4dbf-8e60-aa683bd90115" />
-- Divisional level Report:
+---
+- Divisional level Report
   <img width="786" height="396" alt="image" src="https://github.com/user-attachments/assets/eba5dbae-d3cb-4bf9-92f7-a3ecc07d76e7" />
+  
+  ---
 - Top 5 products based on the quantity sold:
 <img width="559" height="463" alt="image" src="https://github.com/user-attachments/assets/ea2769da-2105-425a-8559-3c8d614a82d1" />
 - Bottom 5 products based on the quantity sold:
