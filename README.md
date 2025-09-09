@@ -59,9 +59,14 @@ To empower AtliQ’s leadership and sales teams with data-backed insights for be
 
 ---
 
+##Insights
+-Amazon has shown consistent growth in their net sales from 2019->2020->2021
+-
+
 ## 📬 Contact
 
 Feel free to connect or reach out if you'd like to collaborate or ask questions!
+
 
 ---
 
