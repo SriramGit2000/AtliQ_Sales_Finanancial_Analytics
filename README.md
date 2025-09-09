@@ -68,20 +68,35 @@ To empower AtliQ’s leadership and sales teams with data-backed insights for be
 - Top 10 Products based on their net sales
 <img width="950" height="691" alt="image" src="https://github.com/user-attachments/assets/2f9c1348-0023-4dbf-8e60-aa683bd90115" />
 ---
+
 - Divisional level Report
   <img width="786" height="396" alt="image" src="https://github.com/user-attachments/assets/eba5dbae-d3cb-4bf9-92f7-a3ecc07d76e7" />
   
   ---
 - Top 5 products based on the quantity sold:
 <img width="559" height="463" alt="image" src="https://github.com/user-attachments/assets/ea2769da-2105-425a-8559-3c8d614a82d1" />
+---
+
 - Bottom 5 products based on the quantity sold:
-  <img width="556" height="436" alt="image" src="https://github.com/user-attachments/assets/cc4b2375-f426-421c-88bb-05fbf8cee2ac" />
+
+<img width="556" height="436" alt="image" src="https://github.com/user-attachments/assets/cc4b2375-f426-421c-88bb-05fbf8cee2ac" />
+
+  ---
+  
 - New products launched in 2021:
 <img width="799" height="743" alt="image" src="https://github.com/user-attachments/assets/4b9a3246-0666-437e-9117-218acb4589b3" />
+
+---
+
 - Top5 performing countres based on their net sales in 2021:
 <img width="833" height="452" alt="image" src="https://github.com/user-attachments/assets/2f727502-ee61-415e-8001-7ca675b223f3" />
+
+---
+
 - In all the fiscal years , Nov and Dec has made highest net sales, COGS, Gross margin:
 <img width="970" height="784" alt="image" src="https://github.com/user-attachments/assets/08657dad-0352-43fb-89d8-4aa0eafb471e" />
+---
+
 - GM% is falling why?
 - Even though sales and profits grew massively in absolute terms, the GM% is falling.
 This means:
