@@ -60,9 +60,14 @@ To empower AtliQ’s leadership and sales teams with data-backed insights for be
 ---
 
 ## Insights
--Amazon has shown consistent growth in their net sales from 2019->2020->2021
--
+- Amazon has shown consistent growth in their net sales from 2019->2020->2021.
+- In Indian market, Amazon stands first and flipkart 2nd.
+- Nova's growth% is 2664.92% which is the highest in all customers, the reason is , it dint made any sales in 2019 , nor in 2020, but it made $0.4M in 2021.
+- There are 4 more customers who dint made any sales in 2019, 2020.
+- India and USA are lagging behind in terms of Net sales vs target although they made highest sales among all the customers. In terms of 2021-Target % , it is Poland which lags behind.
+- <img width="950" height="691" alt="image" src="https://github.com/user-attachments/assets/2f9c1348-0023-4dbf-8e60-aa683bd90115" />
 
+-  
 ## 📬 Contact
 
 Feel free to connect or reach out if you'd like to collaborate or ask questions!
